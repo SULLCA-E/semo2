@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="semo2.Views.Productos.VPPrincipal"
+              Title="Productos"
+             >
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="{StaticResource PKColor}">
+            <Frame HasShadow="False"
+                   CornerRadius="50"
+                   Padding="5"
+                   Margin="30,20">
+
+                <StackLayout >
+                    <Entry Placeholder="Buscar.."/>
+                </StackLayout>
+            </Frame>
+            <Grid ColumnDefinitions="*,*,*">
+                <Button Grid.Column="0"
+                        Text="Hotel"
+                        CornerRadius="50"
+                        Margin="10,0"
+                        />
+                <Button Grid.Column="1"
+                        Text="Hotel"
+                        CornerRadius="50"
+                        Margin="10,0"
+                        />
+                <Button Grid.Column="2"
+                        Text="Hotel"
+                        CornerRadius="50"
+                        Margin="10,0"
+                        />
+            </Grid>
+            <Frame Margin="10,20" CornerRadius="50" HeightRequest="200">
+                <Image Aspect="AspectFill" Source="https://i.blogs.es/9d6c67/rawjpeg/1366_2000.jpg"/>
+            </Frame>
+            <Frame Margin="20,20" CornerRadius="20">
+                <StackLayout>
+                    <Label Text="Ingresar el primer número"/>
+                    <Entry Placeholder="Ingrese el primer  número"
+                           TextColor="Blue"
+                           FontAttributes="Bold"
+                           x:Name="txtvalor"/>
+                    <Label Text="Ingrese el segundo número"/>
+                    <Entry Placeholder="Imgrese el segundo número"
+                           TextColor=" Blue"
+                           FontAttributes="Bold"
+                           x:Name="txt"/>
+                    <Button x:Name="btnSumar_hhhh"
+                            Clicked="btnSumar_hhhh_Clicked"
+                            Text="Sumar"
+                         />
+                    <Label Text="" x:Name="lblResultado"
+                           TextColor="{StaticResource PKColor}"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center"
+                           FontSize="30"/>
+                </StackLayout>
+
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

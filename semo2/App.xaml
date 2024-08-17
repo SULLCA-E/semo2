@@ -3,6 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="semo2.App">
     <Application.Resources>
-
+        <Color x:Key="PKColor">#7E9EFC</Color>
+        <Style x:Key="btn-gree" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="Green"/>
+            <Setter Property="Margin" Value="80,0"/>
+            <Setter Property="Padding" Value="20"/>
+            <Setter Property="CornerRadius" Value="50"/>
+            <Setter Property="TextColor" Value="White"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
     </Application.Resources>
 </Application>

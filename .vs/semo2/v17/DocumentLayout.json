@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\XAMARIN2\\semo2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|c:\\xamarin2\\semo2\\semo2\\views\\login\\vllogin.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|solutionrelative:semo2\\views\\login\\vllogin.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|c:\\xamarin2\\semo2\\semo2\\views\\login\\vllogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|solutionrelative:semo2\\views\\login\\vllogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|c:\\xamarin2\\semo2\\semo2\\views\\home\\vhprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|solutionrelative:semo2\\views\\home\\vhprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|c:\\xamarin2\\semo2\\semo2\\views\\home\\vhbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|solutionrelative:semo2\\views\\home\\vhbody.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|c:\\xamarin2\\semo2\\semo2\\views\\home\\vhfoter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|solutionrelative:semo2\\views\\home\\vhfoter.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|c:\\xamarin2\\semo2\\semo2\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{78774A2B-8CF3-416F-9807-70C49526B61C}|semo2\\semo2.csproj|solutionrelative:semo2\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VLLogin.xaml.cs",
+              "DocumentMoniker": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Login\\VLLogin.xaml.cs",
+              "RelativeDocumentMoniker": "semo2\\Views\\Login\\VLLogin.xaml.cs",
+              "ToolTip": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Login\\VLLogin.xaml.cs",
+              "RelativeToolTip": "semo2\\Views\\Login\\VLLogin.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:38:34.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VLLogin.xaml",
+              "DocumentMoniker": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Login\\VLLogin.xaml",
+              "RelativeDocumentMoniker": "semo2\\Views\\Login\\VLLogin.xaml",
+              "ToolTip": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Login\\VLLogin.xaml",
+              "RelativeToolTip": "semo2\\Views\\Login\\VLLogin.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T18:38:32.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VHFoter.xaml",
+              "DocumentMoniker": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Home\\VHFoter.xaml",
+              "RelativeDocumentMoniker": "semo2\\Views\\Home\\VHFoter.xaml",
+              "ToolTip": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Home\\VHFoter.xaml",
+              "RelativeToolTip": "semo2\\Views\\Home\\VHFoter.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T15:46:50.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VHBody.xaml",
+              "DocumentMoniker": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Home\\VHBody.xaml",
+              "RelativeDocumentMoniker": "semo2\\Views\\Home\\VHBody.xaml",
+              "ToolTip": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Home\\VHBody.xaml",
+              "RelativeToolTip": "semo2\\Views\\Home\\VHBody.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T15:39:37.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VHPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Home\\VHPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "semo2\\Views\\Home\\VHPrincipal.xaml.cs",
+              "ToolTip": "C:\\XAMARIN2\\semo2\\semo2\\Views\\Home\\VHPrincipal.xaml.cs",
+              "RelativeToolTip": "semo2\\Views\\Home\\VHPrincipal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:31:04.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\XAMARIN2\\semo2\\semo2\\App.xaml",
+              "RelativeDocumentMoniker": "semo2\\App.xaml",
+              "ToolTip": "C:\\XAMARIN2\\semo2\\semo2\\App.xaml",
+              "RelativeToolTip": "semo2\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T14:30:05.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

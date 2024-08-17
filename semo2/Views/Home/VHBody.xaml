@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="semo2.Views.Home.VHBody">
+  <ContentView.Content>
+      <StackLayout>
+            <Frame>
+               
+                <Image Source="https://lh3.googleusercontent.com/proxy/Etnq48KolIBvkL4u85YPIp5bTMx7_lc2r1DFo-zPqgqlDiOoSVbW7OUvvzHx-abLKKXgHlI3uozSeXHST9gxLySf3HTycoRh4Nuq4yWBwsvxO6AX_UE"></Image>
+            </Frame>
+      </StackLayout>
+  </ContentView.Content>
+</ContentView>

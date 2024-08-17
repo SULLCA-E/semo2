@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="semo2.Views.Home.VHFoter">
+    <ContentView.Content>
+        <StackLayout>
+            <Label Text="SENATI" HorizontalOptions="Center" FontAttributes="Bold" />
+            <Label VerticalOptions="StartAndExpand" Text="Bienvenidos"/>
+
+            <Button Text="Iniciar Sesion"
+                    BackgroundColor="SkyBlue"
+                    TextColor="White"
+                    CornerRadius="50"
+                    Margin="80,0"/>     
+            <Button x:Name="btn_ingresar"
+                    Clicked="btn_ingresar_Clicked"
+                Text="Rejistre Sesion" Style="{StaticResource btn-gree}"/>
+            <Button Text="Sullca" Style="{StaticResource btn-gree}"/>
+            <Label Text="Olvido Su contraseña" HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

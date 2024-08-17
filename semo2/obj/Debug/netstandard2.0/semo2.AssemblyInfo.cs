@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("semo2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e82df9041a6b35b8eb22482367cda8687cf8ba18")]
 [assembly: System.Reflection.AssemblyProductAttribute("semo2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("semo2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
